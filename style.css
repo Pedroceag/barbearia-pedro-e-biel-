@@ -17,6 +17,16 @@ nav a {
    font-size: 22px;
    text-decoration: none; 
    
+}nav {
+    position: absolute;
+    top: 110px;
+    right: 0;
+}
+
+
+
+.logo, img  {
+    width: 250px        ;
 }
 
 .caixa {
@@ -144,3 +154,6 @@ form input   {
 }
 
 
+.img_produto {
+    height: 250px;
+}

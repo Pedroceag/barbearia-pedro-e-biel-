@@ -1,16 +1,120 @@
+header  {
+
+   background-color: darkgray;
+   padding: 20PX 0;
+}
+
+nav li {
+ display: inline;
+ margin: 0 0 0 15px;
+}
+
+nav a {
+text-transform: uppercase;
+color:black;
+font-weight:bold;
+font-size: 22px;
+text-decoration: none; 
+
+}nav {
+ position: absolute;
+ top: 110px;
+ right: 0;
+}
+
+
+
+.logo, img  {
+ width: 250px        ;
+}
+
+.caixa {
+ position: relative;
+ width: 940px;
+ margin: 0 auto;
+
+}
+
+nav {
+ position: absolute;
+ top: 110px;
+ right: 0;
+}
+
+
+
+.logo, img  {
+ width: 250px        ;
+}
+
+nav a:hover{
+   color: rgb(255, 255, 255);
+   text-decoration: underline;
+
+
+}
+
+
 body {
-background-color:rgb(139, 211, 211);
-
-}
-  
-h1 { 
-     text-align: center;
-
-}
-
-p{ 
+   background-color: rgb(167, 167, 167)
+   }
+   
+   h1 {
    text-align: center;
-       
+   
+   }
+   
+   p{
+   text-align: center;
+   }
+   
+   b {
+   color: rgb(0, 0, 0);
+   }
+   
+   p {
+   text-align: center;
+   
+   
+   }
+   
+   #banner {
+   width: 25%;
+   
+   }
+   
+   main {
+   color:rgb(0, 0, 0)
+   
+   
+   }
+   
+   header {
+   
+   color:rgb(129, 129, 129)
+   }
+   
+   j {
+   color:rgb(129, 129, 129)
+   }
+   
+   #images {
+   width: 25%;
+   
+   }
+
+
+    p  {
+   padding: 15px;
+
+    }
+
+.img_barbearia {
+   width: 800px;
 }
 
 
+
+
+    
+    
